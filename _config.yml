@@ -45,9 +45,9 @@ plugins:
 # jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 # twitter:
 #   username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-# author: DavidDarnes # jekyll-seo-tag > default author
-# social: # jekyll-seo-tag > social overrides
-#   name: David Darnes # jekyll-seo-tag > real name
+author: EmilioBellini # jekyll-seo-tag > default author
+social: # jekyll-seo-tag > social overrides
+  name: Emilio Bellini # jekyll-seo-tag > real name
 #   links:  # jekyll-seo-tag > social aliases (sameAs)
 #     - https://twitter.com/DavidDarnes
 #     - https://www.facebook.com/daviddarnes
@@ -87,7 +87,7 @@ timezone: Europe/London # Timezone for blog posts and alike
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Emilio Bellini" # Site name or title, also used in jekyll-seo-tag
-# logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/favicon.ico" # Site logo, also used in jekyll-seo-tag
 # description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 # url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 # baseurl: ""
@@ -101,14 +101,8 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: 'favicons/favicon-16x16.png'
-  32: 'favicons/favicon-32x32.png'
-#   96: '/assets/logos/logo@96px.png'
-#   120: '/assets/logos/logo@120px.png'
-#   144: '/assets/logos/logo@144px.png'
-#   180: '/assets/logos/logo@180px.png'
-  # 512: '/assets/logos/logo@512px.png'
-#   1024: '/assets/logos/logo@1024px.png'
+  16: '/assets/logos/favicon-16x16.png'
+  32: '/assets/logos/favicon-32x32.png'
 
 # 9. Site navigation
 navigation_header:
