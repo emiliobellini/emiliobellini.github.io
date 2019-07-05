@@ -1,5 +1,4 @@
 # Site configuration
-# 0. Choose theme
 # 1. Files excluded from Jekyll builds
 # 2. Installed Gems
 # 3. Gem settings
@@ -9,9 +8,6 @@
 # 7. Site settings
 # 8. Site favicons & manifest icons
 # 9. Site navigation
-
-# 0. Choose theme
-theme: alembic-jekyll-theme
 
 # 1. Files excluded from Jekyll builds
 exclude:
@@ -80,7 +76,7 @@ timezone: Europe/London # Timezone for blog posts and alike
 #     scope:
 #       path: ""
 #     values:
-#       image: "/assets/default-social-image.png" # Default image for sharing
+#       image: "/assets/back.png" # Default image for sharing
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
