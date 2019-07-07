@@ -2,7 +2,7 @@
 title: Home
 feature_text: |
   # Emilio Bellini
-  <span style="color:black">*Welcome to my home page!*</span>
+  *Welcome to my home page!*
 feature_image: "/assets/back.png"
 excerpt: ""
 layout: page
