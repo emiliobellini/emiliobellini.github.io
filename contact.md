@@ -9,4 +9,13 @@ layout: page
 aside: false
 ---
 
-{% include figure.html image="/assets/uc.png" position="center" width="200" height="200" %}
+{% include figure.html image="/assets/profile.jpeg" position="left" width="300px" %}
+
+
+Astrophysics  
+University of Oxford  
+DWB Keble Road  
+OX1 3RH, Oxford  
+United Kingdom
+
+*{{ site.email }}*
