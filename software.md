@@ -2,7 +2,6 @@
 title: Software
 feature_text: |
   # Software
-  *Emilio Bellini*
 feature_image: "/assets/back.png"
 excerpt: ""
 layout: page

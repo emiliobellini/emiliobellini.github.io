@@ -2,7 +2,6 @@
 title: Research
 feature_text: |
   # Research
-  *Emilio Bellini*
 feature_image: "/assets/back.png"
 excerpt: ""
 layout: page

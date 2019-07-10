@@ -2,7 +2,6 @@
 title: Contact
 feature_text: |
   # Contact
-  *Emilio Bellini*
 feature_image: "/assets/back.png"
 excerpt: ""
 layout: page
