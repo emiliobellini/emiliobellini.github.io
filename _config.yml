@@ -107,8 +107,8 @@ navigation_header:
 #   url: /research/
 # - title: Publications
 #   url: /publications/
-# - title: Software
-#   url: /software/
+- title: Software
+  url: /software/
 - title: Contact
   url: /contact/
 
