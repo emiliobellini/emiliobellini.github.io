@@ -13,7 +13,7 @@ A complete and up-to-date list of my publications can be found on different scie
 {% capture link %}{{ site.links.arxiv }}{% endcapture %}{% include button_ai.html link=link text="arXiv" icon="arxiv" color="#b31b1b" %}&nbsp;{% capture link %}{{ site.links.ads }}{% endcapture %}{% include button_ai.html link=link text="NASA/ADS" icon="ads" color="#143270" %}&nbsp;{% capture link %}{{ site.links.inspire }}{% endcapture %}{% include button_ai.html link=link text="inSPIRE" icon="inspire" color="#6699cc" %}&nbsp;{% capture link %}{{ site.links.google-scholar }}{% endcapture %}{% include button_ai.html link=link text="Google Scholar" icon="google-scholar" color="#3983fe" %}
 
 
-A list of selected papers to better illustrate my research activity and my major achievements (in inverse chronological order)
+A list of selected papers to better illustrate my research activity and my major achievements (in reverse chronological order)
 
 * T. Baker, E. Bellini, P. G. Ferreira, M. Lagos, J. Noller, and I. Sawicki, “*Strong constraints on cosmological gravity from GW170817 and GRB 170817A*”, [Phys. Rev. Lett. 119 no. 25, (2017) 251301](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.251301), [arXiv:1710.06394](https://arxiv.org/abs/1710.06394): This paper is receiving a huge attention from the community. We have been selected as “PRL Editor’s suggestion”. Indeed, it is the first paper that points out the profound implications that the detection of the gravitational waves from a binary neutron star merger has on Modified Gravity theories.
 
