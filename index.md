@@ -17,7 +17,7 @@ I am an astrophysicist, currently holding a Beecroft fellowship at the [Universi
 
 My research activity is mainly devoted to the study of the laws of gravity at the largest measurable scales of the universe. The aim is to test the robustness of General Relativity - our standard theory of gravity - up to cosmological scales, in yet unexplored regimes. This gives us hints on the observed accelerated expansion of the universe, the nature of gravity and its connection with fundamental physics. My focus is both on the theory side and on the comparison with data. I have also worked on other topics such as Black Hole physics, Gravitational Waves and their implication in alternative theories of gravity and neutrino physics in cosmology.
 
-Check out my [scientific publications](/publications/) if you want to know *much* more details about my research.
+Check out my [research & publications](/research_and_publications/) section, if you want some more detail about my academic interests.
 
 Have a look at my [software](/software/) section. You will find codes that I have written, plus a few random tools that I really like.
 
