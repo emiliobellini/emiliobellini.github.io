@@ -2,7 +2,7 @@
 title: Home
 feature_text: |
   # Emilio Bellini
-  *Astrophysicist, University of Oxford*
+  *Cosmologist, University of Oxford*
 feature_image: "/assets/back.png"
 excerpt: ""
 layout: page
