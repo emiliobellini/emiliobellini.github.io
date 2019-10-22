@@ -9,7 +9,9 @@ layout: page
 aside: false
 ---
 
-{% include figure.html image="/assets/profile.jpeg" position="left" width="299px" %}
+<!-- {% include figure.html image="/assets/profile.jpeg" position="left" width="299px" %} -->
+
+<img src="assets/profile.jpeg" position="left" width="299px" >
 
 ###### Welcome to my homepage!  
 
