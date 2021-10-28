@@ -2,7 +2,7 @@
 title: Home
 feature_text: |
   # Emilio Bellini
-  *Cosmologist, University of Oxford*
+  *Cosmologist, University of Geneva*
 feature_image: "/assets/back.png"
 excerpt: ""
 layout: page
@@ -24,7 +24,8 @@ Check out my [research & publications](/research_and_publications/) section, if 
 Have a look at my [software](/software/) section. You will find codes that I have written, plus a few random tools that I really like.
 
 
-{% include figure.html image="/assets/oxford_logo.png" position="right" width="115px" link="https://www2.physics.ox.ac.uk/" %}{% include figure.html image="/assets/queens_logo.png" position="right" width="100px" link="https://www.queens.ox.ac.uk/" %}
+{% include figure.html image="/assets/logo_unige.jpg" position="right" width="115px" link="https://www.unige.ch/sciences/physique/theorique/en/" %}
+<!-- {% include figure.html image="/assets/oxford_logo.png" position="right" width="115px" link="https://www2.physics.ox.ac.uk/" %}{% include figure.html image="/assets/queens_logo.png" position="right" width="100px" link="https://www.queens.ox.ac.uk/" %} -->
 
 
 <!-- {% capture link %}{{ site.links.orcid }}{% endcapture %}{% include button_ai.html link=link text="ORCID" icon="orcid" color="#a6ce39" %}
