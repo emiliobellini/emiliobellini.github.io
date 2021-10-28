@@ -58,7 +58,7 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: Europe/Rome # Timezone for blog posts and alike
 
 # 5. Collections
 # collections:
@@ -87,7 +87,7 @@ description: "This is my website. You can find some info about my job, my resear
 url: "https://emiliobellini.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/emiliobellini/emiliobellini.github.io"
-email: "emilio.bellini-at-physics.ox.ac.uk"
+email: "emilio.bellini-at-unige.ch"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # google_analytics_anonymize_ip: ''
