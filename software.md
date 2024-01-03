@@ -1,5 +1,5 @@
 ---
-title: Software
+# title: Software
 feature_text: |
   # Software
 feature_image: "/assets/back.png"
