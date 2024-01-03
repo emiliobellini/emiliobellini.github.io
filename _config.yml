@@ -27,6 +27,7 @@ title: 'Emilio Bellini'
 description: 'This is my website. You can find some info about my job, my research interests and some link to find my papers and social media.'
 permalink: pretty
 logo: '/assets/logos/favicon.ico'
+email: 'emilio.bellini-at-sissa.it'
 
 # Pagination
 paginate: 5
