@@ -1,5 +1,5 @@
 ---
-title: Research & Publications
+# title: Research & Publications
 feature_text: |
   # Research & Publications
 feature_image: "/assets/back.png"
